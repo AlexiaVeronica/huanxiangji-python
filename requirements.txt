@@ -1,0 +1,8 @@
+requests~=2.30.0
+Scrapy~=2.9.0
+peewee~=3.16.2
+tqdm~=4.65.0
+zhconv~=1.4.3
+prettytable~=3.7.0
+EbookLib~=0.18
+lxml~=4.9.2
